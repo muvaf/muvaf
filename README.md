@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ✨ The tools I'm using to do that right now are Go, Kubernetes, Controller Runtime and various cloud APIs.
 
-I work at [Upbound](https://www.upbound.io/) where I'm a maintainer at [Crossplane](https://github.com/crossplane/crossplane), an open source control plane that lets you build your own infrastructure platform, and its various providers like [provider-aws](https://github.com/crossplane/provider-aws). Prior to that, I worked at SAP to build the cloud backend of [Data Intelligence](https://www.sap.com/products/data-intelligence.html) and interned at Amazon to make ML pipelines run more efficient.
+I work at [Upbound](https://www.upbound.io/) where I'm a maintainer at [Crossplane](https://github.com/crossplane/crossplane), an open source control plane that lets you build your own infrastructure platform, and its various providers like [provider-aws](https://github.com/crossplane/provider-aws). [Prior](https://www.linkedin.com/in/mmonus/) to that, I worked at SAP to build the cloud backend of [Data Intelligence](https://www.sap.com/products/data-intelligence.html) and interned at Amazon to make ML pipelines run more efficient.
 
 📫 If you're in Istanbul and want to play basketball sometime, hit me up at Crossplane Slack (@muvaf)!
